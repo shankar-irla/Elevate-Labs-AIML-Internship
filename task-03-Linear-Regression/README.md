@@ -14,7 +14,7 @@ Implement and understand **simple & multiple linear regression** models to predi
 
 ## 🗂️ Dataset:
 - **Name**: Housing.csv  
-- **Path**: `./Housing.csv`  
+- **Path**: `../data/Housing.csv`  
 - **Description**: Contains housing data with features like area, bedrooms, bathrooms, etc., to predict house prices.
 
 ---
