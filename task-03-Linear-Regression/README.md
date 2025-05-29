@@ -76,6 +76,7 @@ plt.figure(figsize=(10, 6))
 sns.barplot(x=coeffs.values, y=coeffs.index)
 plt.title("Feature Coefficients")
 plt.show()
+
 #Learning Outcome:
 Data preprocessing techniques
 
